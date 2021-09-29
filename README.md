@@ -6,7 +6,8 @@ Continuar con la planeación de proyecto, definiendo el proyecto, los objetivos 
 Duración de miercoles a sábado.
 
 Semana 3:
-Actividad Tarea 6.1 - Conectar NodeMCU con FireBase:
+- Actividad Tarea 6.1 - Conectar NodeMCU con FireBase:
+- 
 
 
 Semana 3:
